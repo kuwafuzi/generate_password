@@ -1,8 +1,9 @@
+package passwordGanerator;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Sample1_1 {
+public class Password {
 	public static void main(String[] args) {
 		
 		// Initialize the list.
